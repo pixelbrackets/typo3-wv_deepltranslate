@@ -225,20 +225,16 @@
 				<target>DeepL Verwendung</target>
 			</trans-unit>
 			<trans-unit id="widgets.deepltranslate.widget.useswidget.description">
-				<source></source>
-				<target></target>
+				<source>Show a DeepL usage bar</source>
+				<target>Zeige einen Fortschrittsbalken für die DeepL Nutzung</target>
 			</trans-unit>
 			<trans-unit id="widgets.deepltranslate.widget.useswidget.character">
 				<source>Character</source>
 				<target>Zeichen</target>
 			</trans-unit>
-			<trans-unit id="widgets.deepltranslate.widget.useswidget.count">
-				<source>Count</source>
-				<target>Zähler</target>
-			</trans-unit>
-			<trans-unit id="widgets.deepltranslate.widget.useswidget.limit">
-				<source>Limit</source>
-				<target>Begrenzung</target>
+			<trans-unit id="widgets.deepltranslate.widget.useswidget.message">
+				<source>DeepL translations for current billing period: %s of %s characters</source>
+				<target>DeepL Übersetzungen für aktuellen Abrechnungszeitraum: %s von %s Zeichen</target>
 			</trans-unit>
 		</body>
 	</file>
